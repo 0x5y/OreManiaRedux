@@ -15692,15 +15692,15 @@
     "ItemStats": {
       "Values": {
         "Multiplier": null,
-        "OreValue": null,
+        "OreValue": 55000000,
         "UseLimit": null,
         "Portable": false,
         "UsableDistance": null
       },
       "Effects": [
         {
-          "EffectName": null,
-          "Duration": null
+          "EffectName": "Can't go up ramps",
+          "Duration": 999
         }
       ]
     }
