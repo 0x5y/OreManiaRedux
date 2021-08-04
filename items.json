@@ -12818,9 +12818,9 @@
     "ShinyId": 0,
     "ItemStats": {
       "Values": {
-        "Multiplier": null,
+        "Multiplier": 2,
         "OreValue": null,
-        "UseLimit": null,
+        "UseLimit": 1,
         "Portable": false,
         "UsableDistance": null
       },
