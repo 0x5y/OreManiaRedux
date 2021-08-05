@@ -89,7 +89,7 @@
         ],
         "Values": {
           "OreChange": {
-            "DropTime": null,
+            "DropTime": 1,
             "MultiRange": {
               "Item1": null,
               "Item2": null
