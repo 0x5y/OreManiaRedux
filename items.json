@@ -1,5 +1,4 @@
-{
-  "items": [
+[
     {
       "Cost": 50,
       "Description": "Use this to make ores go places!",
@@ -29955,4 +29954,3 @@
       "Width": 18
     }
   ]
-}
