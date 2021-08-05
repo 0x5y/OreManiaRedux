@@ -1996,7 +1996,7 @@
               "Item1": null,
               "Item2": null
             },
-            "Multiplier": null,
+            "Multiplier": 10,
             "OreValue": null,
             "ValueRange": {
               "Item1": null,
@@ -2005,7 +2005,7 @@
           },
           "Portable": false,
           "UsableDistance": null,
-          "UseLimit": null
+          "UseLimit": 5
         }
       },
       "ItemType": 3,
@@ -2034,7 +2034,7 @@
               "Item1": null,
               "Item2": null
             },
-            "Multiplier": null,
+            "Multiplier": 2,
             "OreValue": null,
             "ValueRange": {
               "Item1": null,
@@ -2043,7 +2043,7 @@
           },
           "Portable": false,
           "UsableDistance": null,
-          "UseLimit": null
+          "UseLimit": 1
         }
       },
       "ItemType": 3,
@@ -2072,7 +2072,7 @@
               "Item1": null,
               "Item2": null
             },
-            "Multiplier": null,
+            "Multiplier": 1.4,
             "OreValue": null,
             "ValueRange": {
               "Item1": null,
@@ -2081,7 +2081,7 @@
           },
           "Portable": false,
           "UsableDistance": null,
-          "UseLimit": null
+          "UseLimit": 1000
         }
       },
       "ItemType": 3,
@@ -2986,7 +2986,7 @@
               "Item1": null,
               "Item2": null
             },
-            "Multiplier": null,
+            "Multiplier": 1.7,
             "OreValue": null,
             "ValueRange": {
               "Item1": null,
@@ -2995,7 +2995,7 @@
           },
           "Portable": false,
           "UsableDistance": null,
-          "UseLimit": null
+          "UseLimit": 60000000000
         }
       },
       "ItemType": 3,
@@ -5455,7 +5455,7 @@
               "Item1": null,
               "Item2": null
             },
-            "Multiplier": null,
+            "Multiplier": 5.5,
             "OreValue": null,
             "ValueRange": {
               "Item1": null,
@@ -5464,7 +5464,7 @@
           },
           "Portable": false,
           "UsableDistance": null,
-          "UseLimit": null
+          "UseLimit": 1
         }
       },
       "ItemType": 3,
