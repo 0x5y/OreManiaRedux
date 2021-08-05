@@ -1462,7 +1462,7 @@
               "Item1": null,
               "Item2": null
             },
-            "Multiplier": null,
+            "Multiplier": 1,
             "OreValue": null,
             "ValueRange": {
               "Item1": null,
@@ -1471,7 +1471,7 @@
           },
           "Portable": false,
           "UsableDistance": null,
-          "UseLimit": null
+          "UseLimit": 999
         }
       },
       "ItemType": 3,
@@ -1649,8 +1649,8 @@
           "OreChange": {
             "DropTime": null,
             "MultiRange": {
-              "Item1": null,
-              "Item2": null
+              "Item1": 1,
+              "Item2": 3
             },
             "Multiplier": null,
             "OreValue": null,
@@ -1690,7 +1690,7 @@
               "Item1": null,
               "Item2": null
             },
-            "Multiplier": null,
+            "Multiplier": 2,
             "OreValue": null,
             "ValueRange": {
               "Item1": null,
@@ -1728,7 +1728,7 @@
               "Item1": null,
               "Item2": null
             },
-            "Multiplier": null,
+            "Multiplier": 4,
             "OreValue": null,
             "ValueRange": {
               "Item1": null,
@@ -1766,7 +1766,7 @@
               "Item1": null,
               "Item2": null
             },
-            "Multiplier": null,
+            "Multiplier": 20,
             "OreValue": null,
             "ValueRange": {
               "Item1": null,
@@ -1805,7 +1805,7 @@
               "Item1": null,
               "Item2": null
             },
-            "Multiplier": null,
+            "Multiplier": 500,
             "OreValue": null,
             "ValueRange": {
               "Item1": null,
@@ -1844,7 +1844,7 @@
               "Item1": null,
               "Item2": null
             },
-            "Multiplier": null,
+            "Multiplier": 4000,
             "OreValue": null,
             "ValueRange": {
               "Item1": null,
@@ -1882,7 +1882,7 @@
               "Item1": null,
               "Item2": null
             },
-            "Multiplier": null,
+            "Multiplier": 6,
             "OreValue": null,
             "ValueRange": {
               "Item1": null,
@@ -1920,7 +1920,7 @@
               "Item1": null,
               "Item2": null
             },
-            "Multiplier": null,
+            "Multiplier": 10,
             "OreValue": null,
             "ValueRange": {
               "Item1": null,
@@ -1958,7 +1958,7 @@
               "Item1": null,
               "Item2": null
             },
-            "Multiplier": null,
+            "Multiplier": 15,
             "OreValue": null,
             "ValueRange": {
               "Item1": null,
@@ -2490,7 +2490,7 @@
               "Item1": null,
               "Item2": null
             },
-            "Multiplier": null,
+            "Multiplier": 1.5,
             "OreValue": null,
             "ValueRange": {
               "Item1": null,
@@ -2499,7 +2499,7 @@
           },
           "Portable": false,
           "UsableDistance": null,
-          "UseLimit": null
+          "UseLimit": 1
         }
       },
       "ItemType": 3,
@@ -2566,7 +2566,7 @@
               "Item1": null,
               "Item2": null
             },
-            "Multiplier": null,
+            "Multiplier": 1.25,
             "OreValue": null,
             "ValueRange": {
               "Item1": null,
@@ -2575,7 +2575,7 @@
           },
           "Portable": false,
           "UsableDistance": null,
-          "UseLimit": null
+          "UseLimit": 50000
         }
       },
       "ItemType": 3,
@@ -2611,8 +2611,8 @@
               "Item2": null
             }
           },
-          "Portable": false,
-          "UsableDistance": null,
+          "Portable": true,
+          "UsableDistance": true,
           "UseLimit": null
         }
       },
@@ -2642,7 +2642,7 @@
               "Item1": null,
               "Item2": null
             },
-            "Multiplier": null,
+            "Multiplier": 1.3,
             "OreValue": null,
             "ValueRange": {
               "Item1": null,
@@ -2651,7 +2651,7 @@
           },
           "Portable": false,
           "UsableDistance": null,
-          "UseLimit": null
+          "UseLimit": 3
         }
       },
       "ItemType": 3,
@@ -2680,7 +2680,7 @@
               "Item1": null,
               "Item2": null
             },
-            "Multiplier": null,
+            "Multiplier": 1.4,
             "OreValue": null,
             "ValueRange": {
               "Item1": null,
@@ -2689,7 +2689,7 @@
           },
           "Portable": false,
           "UsableDistance": null,
-          "UseLimit": null
+          "UseLimit": 3
         }
       },
       "ItemType": 3,
@@ -2718,7 +2718,7 @@
               "Item1": null,
               "Item2": null
             },
-            "Multiplier": null,
+            "Multiplier": 2.5,
             "OreValue": null,
             "ValueRange": {
               "Item1": null,
@@ -2727,7 +2727,7 @@
           },
           "Portable": false,
           "UsableDistance": null,
-          "UseLimit": null
+          "UseLimit": 1
         }
       },
       "ItemType": 3,
@@ -2756,7 +2756,7 @@
               "Item1": null,
               "Item2": null
             },
-            "Multiplier": null,
+            "Multiplier": 3,
             "OreValue": null,
             "ValueRange": {
               "Item1": null,
@@ -2765,7 +2765,7 @@
           },
           "Portable": false,
           "UsableDistance": null,
-          "UseLimit": null
+          "UseLimit": 1
         }
       },
       "ItemType": 3,
@@ -9399,7 +9399,7 @@
               "Item1": null,
               "Item2": null
             },
-            "Multiplier": null,
+            "Multiplier": 1.5,
             "OreValue": null,
             "ValueRange": {
               "Item1": null,
@@ -9408,7 +9408,7 @@
           },
           "Portable": false,
           "UsableDistance": null,
-          "UseLimit": null
+          "UseLimit": 1
         }
       },
       "ItemType": 5,
@@ -9437,7 +9437,7 @@
               "Item1": null,
               "Item2": null
             },
-            "Multiplier": null,
+            "Multiplier": 25,
             "OreValue": null,
             "ValueRange": {
               "Item1": null,
@@ -9446,7 +9446,7 @@
           },
           "Portable": false,
           "UsableDistance": null,
-          "UseLimit": null
+          "UseLimit": 1
         }
       },
       "ItemType": 3,
@@ -16488,8 +16488,8 @@
           "OreChange": {
             "DropTime": null,
             "MultiRange": {
-              "Item1": null,
-              "Item2": null
+              "Item1": 20000,
+              "Item2": 100000
             },
             "Multiplier": null,
             "OreValue": null,
@@ -16500,7 +16500,7 @@
           },
           "Portable": false,
           "UsableDistance": null,
-          "UseLimit": null
+          "UseLimit": 1
         }
       },
       "ItemType": 4,
