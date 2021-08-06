@@ -4689,7 +4689,7 @@
             "Item1": null,
             "Item2": null
           },
-          "Multiplier": null,
+          "Multiplier": 5,
           "OreValue": null,
           "ValueRange": {
             "Item1": null,
@@ -4699,7 +4699,7 @@
         "Portable": false,
         "UsableDistance": null,
         "UseCap": null,
-        "UseLimit": null
+        "UseLimit": 1
       }
     },
     "ItemType": 3,
@@ -4735,7 +4735,7 @@
             "Item1": null,
             "Item2": null
           },
-          "Multiplier": null,
+          "Multiplier": 4,
           "OreValue": null,
           "ValueRange": {
             "Item1": null,
@@ -4745,7 +4745,7 @@
         "Portable": false,
         "UsableDistance": null,
         "UseCap": null,
-        "UseLimit": null
+        "UseLimit": 1
       }
     },
     "ItemType": 3,
@@ -4824,8 +4824,8 @@
           "AddValue": null,
           "DropTime": null,
           "MultiRange": {
-            "Item1": null,
-            "Item2": null
+            "Item1": 1,
+            "Item2": 6
           },
           "Multiplier": null,
           "OreValue": null,
@@ -4834,10 +4834,10 @@
             "Item2": null
           }
         },
-        "Portable": false,
-        "UsableDistance": null,
+        "Portable": true,
+        "UsableDistance": 2,
         "UseCap": null,
-        "UseLimit": null
+        "UseLimit": 1
       }
     },
     "ItemType": 3,
@@ -4919,7 +4919,7 @@
             "Item1": null,
             "Item2": null
           },
-          "Multiplier": null,
+          "Multiplier": 3,
           "OreValue": null,
           "ValueRange": {
             "Item1": null,
@@ -4929,7 +4929,7 @@
         "Portable": false,
         "UsableDistance": null,
         "UseCap": null,
-        "UseLimit": null
+        "UseLimit": 1
       }
     },
     "ItemType": 3,
@@ -4965,7 +4965,7 @@
             "Item1": null,
             "Item2": null
           },
-          "Multiplier": null,
+          "Multiplier": 4,
           "OreValue": null,
           "ValueRange": {
             "Item1": null,
@@ -4975,7 +4975,7 @@
         "Portable": false,
         "UsableDistance": null,
         "UseCap": null,
-        "UseLimit": null
+        "UseLimit": 1
       }
     },
     "ItemType": 3,
@@ -5012,7 +5012,7 @@
             "Item1": null,
             "Item2": null
           },
-          "Multiplier": null,
+          "Multiplier": 4,
           "OreValue": null,
           "ValueRange": {
             "Item1": null,
@@ -5022,7 +5022,7 @@
         "Portable": false,
         "UsableDistance": null,
         "UseCap": null,
-        "UseLimit": null
+        "UseLimit": 1
       }
     },
     "ItemType": 3,
@@ -5196,7 +5196,7 @@
             "Item1": null,
             "Item2": null
           },
-          "Multiplier": null,
+          "Multiplier": 4,
           "OreValue": null,
           "ValueRange": {
             "Item1": null,
@@ -5206,7 +5206,7 @@
         "Portable": false,
         "UsableDistance": null,
         "UseCap": null,
-        "UseLimit": null
+        "UseLimit": 1
       }
     },
     "ItemType": 3,
@@ -5242,7 +5242,7 @@
             "Item1": null,
             "Item2": null
           },
-          "Multiplier": null,
+          "Multiplier": 4,
           "OreValue": null,
           "ValueRange": {
             "Item1": null,
@@ -5252,7 +5252,7 @@
         "Portable": false,
         "UsableDistance": null,
         "UseCap": null,
-        "UseLimit": null
+        "UseLimit": 1
       }
     },
     "ItemType": 3,
@@ -5288,7 +5288,7 @@
             "Item1": null,
             "Item2": null
           },
-          "Multiplier": null,
+          "Multiplier": 6,
           "OreValue": null,
           "ValueRange": {
             "Item1": null,
@@ -5298,7 +5298,7 @@
         "Portable": false,
         "UsableDistance": null,
         "UseCap": null,
-        "UseLimit": null
+        "UseLimit": 1
       }
     },
     "ItemType": 3,
@@ -5318,8 +5318,8 @@
     "ItemStats": {
       "Effects": [
         {
-          "Duration": null,
-          "EffectName": null
+          "Duration": 999,
+          "EffectName": "Resets ore upgrades"
         }
       ],
       "Values": {
@@ -5334,7 +5334,7 @@
             "Item1": null,
             "Item2": null
           },
-          "Multiplier": null,
+          "Multiplier": 1,
           "OreValue": null,
           "ValueRange": {
             "Item1": null,
@@ -5344,7 +5344,7 @@
         "Portable": false,
         "UsableDistance": null,
         "UseCap": null,
-        "UseLimit": null
+        "UseLimit": 1
       }
     },
     "ItemType": 3,
@@ -5469,8 +5469,8 @@
           "AddValue": null,
           "DropTime": null,
           "MultiRange": {
-            "Item1": null,
-            "Item2": null
+            "Item1": 4,
+            "Item2": 5
           },
           "Multiplier": null,
           "OreValue": null,
@@ -5482,7 +5482,7 @@
         "Portable": false,
         "UsableDistance": null,
         "UseCap": null,
-        "UseLimit": null
+        "UseLimit": 1
       }
     },
     "ItemType": 3,
@@ -5564,17 +5564,17 @@
             "Item1": null,
             "Item2": null
           },
-          "Multiplier": null,
+          "Multiplier": 10,
           "OreValue": null,
           "ValueRange": {
             "Item1": null,
             "Item2": null
           }
         },
-        "Portable": false,
-        "UsableDistance": null,
+        "Portable": true,
+        "UsableDistance": 5,
         "UseCap": null,
-        "UseLimit": null
+        "UseLimit": 1
       }
     },
     "ItemType": 3,
@@ -5610,7 +5610,7 @@
             "Item1": null,
             "Item2": null
           },
-          "Multiplier": null,
+          "Multiplier": 4,
           "OreValue": null,
           "ValueRange": {
             "Item1": null,
@@ -5620,7 +5620,7 @@
         "Portable": false,
         "UsableDistance": null,
         "UseCap": null,
-        "UseLimit": null
+        "UseLimit": 1
       }
     },
     "ItemType": 3,
@@ -5656,7 +5656,7 @@
             "Item1": null,
             "Item2": null
           },
-          "Multiplier": null,
+          "Multiplier": 50,
           "OreValue": null,
           "ValueRange": {
             "Item1": null,
@@ -5669,7 +5669,7 @@
         "UseLimit": null
       }
     },
-    "ItemType": 3,
+    "ItemType": 2,
     "Length": 11.899994850159,
     "LifeDependency": 50,
     "RebirthRarity": 14,
@@ -5702,7 +5702,7 @@
             "Item1": null,
             "Item2": null
           },
-          "Multiplier": null,
+          "Multiplier": 5,
           "OreValue": null,
           "ValueRange": {
             "Item1": null,
@@ -5712,7 +5712,7 @@
         "Portable": false,
         "UsableDistance": null,
         "UseCap": null,
-        "UseLimit": null
+        "UseLimit": 1
       }
     },
     "ItemType": 3,
@@ -5748,7 +5748,7 @@
             "Item1": null,
             "Item2": null
           },
-          "Multiplier": null,
+          "Multiplier": 4,
           "OreValue": null,
           "ValueRange": {
             "Item1": null,
@@ -5758,7 +5758,7 @@
         "Portable": false,
         "UsableDistance": null,
         "UseCap": null,
-        "UseLimit": null
+        "UseLimit": 1
       }
     },
     "ItemType": 3,
@@ -5807,7 +5807,7 @@
         "UseLimit": null
       }
     },
-    "ItemType": 3,
+    "ItemType": 1,
     "Length": 12,
     "LifeDependency": 25,
     "RebirthRarity": 3,
@@ -5853,7 +5853,7 @@
         "UseLimit": null
       }
     },
-    "ItemType": 3,
+    "ItemType": 1,
     "Length": 12,
     "LifeDependency": 25,
     "RebirthRarity": 3,
@@ -5899,7 +5899,7 @@
         "UseLimit": null
       }
     },
-    "ItemType": 3,
+    "ItemType": 1,
     "Length": 12,
     "LifeDependency": 25,
     "RebirthRarity": 3,
@@ -5945,7 +5945,7 @@
         "UseLimit": null
       }
     },
-    "ItemType": 3,
+    "ItemType": 1,
     "Length": 12,
     "LifeDependency": 25,
     "RebirthRarity": 3,
@@ -5991,7 +5991,7 @@
         "UseLimit": null
       }
     },
-    "ItemType": 3,
+    "ItemType": 1,
     "Length": 12,
     "LifeDependency": 25,
     "RebirthRarity": 3,
@@ -6037,7 +6037,7 @@
         "UseLimit": null
       }
     },
-    "ItemType": 3,
+    "ItemType": 1,
     "Length": 12,
     "LifeDependency": 25,
     "RebirthRarity": 3,
@@ -6080,7 +6080,7 @@
         "Portable": false,
         "UsableDistance": null,
         "UseCap": null,
-        "UseLimit": null
+        "UseLimit": 1
       }
     },
     "ItemType": 3,
