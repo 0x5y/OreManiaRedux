@@ -1689,13 +1689,13 @@
             "Item1": null,
             "Item2": null
           },
-          "AddValue": null,
+          "AddValue": 1,
           "DropTime": null,
           "MultiRange": {
             "Item1": null,
             "Item2": null
           },
-          "Multiplier": 1,
+          "Multiplier": null,
           "OreValue": null,
           "ValueRange": {
             "Item1": null,
@@ -1704,8 +1704,8 @@
         },
         "Portable": false,
         "UsableDistance": null,
-        "UseCap": null,
-        "UseLimit": 999
+        "UseCap": 999,
+        "UseLimit": null
       }
     },
     "ItemType": 3,
@@ -2307,13 +2307,13 @@
             "Item1": null,
             "Item2": null
           },
-          "AddValue": null,
+          "AddValue": 10,
           "DropTime": null,
           "MultiRange": {
             "Item1": null,
             "Item2": null
           },
-          "Multiplier": 10,
+          "Multiplier": null,
           "OreValue": null,
           "ValueRange": {
             "Item1": null,
@@ -2410,8 +2410,8 @@
         },
         "Portable": false,
         "UsableDistance": null,
-        "UseCap": null,
-        "UseLimit": 1000
+        "UseCap": 1000,
+        "UseLimit": null
       }
     },
     "ItemType": 3,
@@ -2982,8 +2982,8 @@
         },
         "Portable": false,
         "UsableDistance": null,
-        "UseCap": null,
-        "UseLimit": 50000
+        "UseCap": 50000,
+        "UseLimit": null
       }
     },
     "ItemType": 3,
@@ -3017,7 +3017,7 @@
             "Item1": null,
             "Item2": null
           },
-          "Multiplier": null,
+          "Multiplier": 1.05,
           "OreValue": null,
           "ValueRange": {
             "Item1": null,
@@ -3027,7 +3027,7 @@
         "Portable": true,
         "UsableDistance": 2,
         "UseCap": null,
-        "UseLimit": null
+        "UseLimit": 20
       }
     },
     "ItemType": 3,
@@ -3202,7 +3202,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
-        "UseCap": null,
+        "UseCap": 100e9,
         "UseLimit": 1
       }
     },
@@ -3237,7 +3237,7 @@
             "Item1": null,
             "Item2": null
           },
-          "Multiplier": null,
+          "Multiplier": 1.5,
           "OreValue": null,
           "ValueRange": {
             "Item1": null,
@@ -3247,7 +3247,7 @@
         "Portable": false,
         "UsableDistance": null,
         "UseCap": null,
-        "UseLimit": null
+        "UseLimit": 3
       }
     },
     "ItemType": 3,
@@ -3283,7 +3283,7 @@
             "Item1": null,
             "Item2": null
           },
-          "Multiplier": null,
+          "Multiplier": 3,
           "OreValue": null,
           "ValueRange": {
             "Item1": null,
@@ -3293,7 +3293,7 @@
         "Portable": false,
         "UsableDistance": null,
         "UseCap": null,
-        "UseLimit": null
+        "UseLimit": 1
       }
     },
     "ItemType": 3,
@@ -3327,7 +3327,7 @@
             "Item1": null,
             "Item2": null
           },
-          "Multiplier": null,
+          "Multiplier": 1.6,
           "OreValue": null,
           "ValueRange": {
             "Item1": null,
@@ -3336,7 +3336,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
-        "UseCap": null,
+        "UseCap": 5e6,
         "UseLimit": null
       }
     },
