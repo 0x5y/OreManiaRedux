@@ -32,6 +32,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -75,6 +76,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -118,6 +120,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -161,6 +164,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -204,6 +208,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -247,6 +252,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -290,6 +296,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -333,6 +340,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -376,6 +384,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -419,6 +428,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -462,6 +472,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -505,6 +516,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -548,6 +560,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -591,6 +604,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -634,6 +648,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -677,6 +692,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -720,6 +736,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -763,6 +780,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -806,6 +824,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -849,6 +868,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -892,6 +912,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -935,6 +956,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -978,6 +1000,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -1021,6 +1044,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -1064,6 +1088,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -1107,6 +1132,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -1150,6 +1176,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -1193,6 +1220,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -1236,6 +1264,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -1279,6 +1308,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -1322,6 +1352,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -1365,6 +1396,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -1408,6 +1440,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -1451,6 +1484,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -1494,6 +1528,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -1537,6 +1572,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -1580,6 +1616,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -1623,6 +1660,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -1666,6 +1704,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": 999
       }
     },
@@ -1709,6 +1748,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -1752,6 +1792,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -1795,6 +1836,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -1838,6 +1880,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -1881,6 +1924,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -1924,6 +1968,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -1967,6 +2012,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -2010,6 +2056,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -2054,6 +2101,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -2098,6 +2146,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -2141,6 +2190,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -2184,6 +2234,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -2227,6 +2278,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -2270,6 +2322,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": 5
       }
     },
@@ -2313,6 +2366,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": 1
       }
     },
@@ -2356,6 +2410,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": 1000
       }
     },
@@ -2399,6 +2454,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -2442,6 +2498,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -2485,6 +2542,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -2528,6 +2586,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -2571,6 +2630,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -2614,6 +2674,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -2657,6 +2718,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -2700,6 +2762,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -2743,6 +2806,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -2786,6 +2850,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -2829,6 +2894,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": 1
       }
     },
@@ -2872,6 +2938,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -2915,6 +2982,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": 50000
       }
     },
@@ -2958,6 +3026,7 @@
         },
         "Portable": true,
         "UsableDistance": 2,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -3001,6 +3070,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": 3
       }
     },
@@ -3044,6 +3114,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": 3
       }
     },
@@ -3087,6 +3158,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": 1
       }
     },
@@ -3130,6 +3202,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": 1
       }
     },
@@ -3173,6 +3246,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -3218,6 +3292,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -3261,6 +3336,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -3304,6 +3380,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -3347,6 +3424,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -3390,6 +3468,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": 60000000000
       }
     },
@@ -3433,6 +3512,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -3476,6 +3556,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -3519,6 +3600,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -3562,6 +3644,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -3607,6 +3690,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -3652,6 +3736,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -3697,6 +3782,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -3742,6 +3828,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -3787,6 +3874,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -3832,6 +3920,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -3877,6 +3966,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -3922,6 +4012,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -3967,6 +4058,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -4012,6 +4104,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -4055,6 +4148,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -4100,6 +4194,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -4145,6 +4240,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -4190,6 +4286,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -4235,6 +4332,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -4280,6 +4378,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -4325,6 +4424,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -4370,6 +4470,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -4415,6 +4516,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -4460,6 +4562,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -4503,6 +4606,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -4548,6 +4652,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -4593,6 +4698,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -4638,6 +4744,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -4683,6 +4790,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -4728,6 +4836,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -4773,6 +4882,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -4818,6 +4928,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -4863,6 +4974,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -4909,6 +5021,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -4954,6 +5067,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -4999,6 +5113,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -5044,6 +5159,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -5089,6 +5205,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -5134,6 +5251,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -5179,6 +5297,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -5224,6 +5343,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -5269,6 +5389,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -5314,6 +5435,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -5359,6 +5481,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -5404,6 +5527,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -5449,6 +5573,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -5494,6 +5619,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -5539,6 +5665,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -5584,6 +5711,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -5629,6 +5757,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -5674,6 +5803,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -5719,6 +5849,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -5764,6 +5895,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -5809,6 +5941,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -5854,6 +5987,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -5899,6 +6033,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -5944,6 +6079,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -5989,6 +6125,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -6034,6 +6171,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -6079,6 +6217,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -6124,6 +6263,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -6169,6 +6309,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": 1
       }
     },
@@ -6214,6 +6355,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -6257,6 +6399,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -6302,6 +6445,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -6347,6 +6491,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -6392,6 +6537,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -6437,6 +6583,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -6482,6 +6629,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -6527,6 +6675,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -6572,6 +6721,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -6617,6 +6767,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -6662,6 +6813,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -6707,6 +6859,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -6752,6 +6905,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -6798,6 +6952,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -6843,6 +6998,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -6888,6 +7044,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -6933,6 +7090,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -6978,6 +7136,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -7023,6 +7182,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -7068,6 +7228,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -7113,6 +7274,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -7158,6 +7320,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -7203,6 +7366,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -7248,6 +7412,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -7293,6 +7458,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -7338,6 +7504,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -7383,6 +7550,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -7428,6 +7596,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -7473,6 +7642,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -7519,6 +7689,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -7564,6 +7735,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -7609,6 +7781,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -7654,6 +7827,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -7699,6 +7873,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -7743,6 +7918,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -7788,6 +7964,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -7833,6 +8010,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -7878,6 +8056,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -7923,6 +8102,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -7968,6 +8148,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -8013,6 +8194,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -8058,6 +8240,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -8103,6 +8286,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -8148,6 +8332,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -8193,6 +8378,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -8238,6 +8424,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -8283,6 +8470,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -8328,6 +8516,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -8373,6 +8562,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -8418,6 +8608,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -8463,6 +8654,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -8508,6 +8700,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -8553,6 +8746,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -8598,6 +8792,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -8643,6 +8838,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -8688,6 +8884,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -8733,6 +8930,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -8778,6 +8976,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -8823,6 +9022,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -8868,6 +9068,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -8911,6 +9112,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -8954,6 +9156,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -8997,6 +9200,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -9040,6 +9244,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -9083,6 +9288,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -9126,6 +9332,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -9169,6 +9376,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -9212,6 +9420,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -9255,6 +9464,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -9298,6 +9508,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -9341,6 +9552,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -9384,6 +9596,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -9427,6 +9640,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -9470,6 +9684,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -9516,6 +9731,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -9559,6 +9775,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -9604,6 +9821,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -9649,6 +9867,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -9694,6 +9913,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -9739,6 +9959,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -9784,6 +10005,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -9829,6 +10051,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -9874,6 +10097,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -9919,6 +10143,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -9962,6 +10187,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -10005,6 +10231,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -10048,6 +10275,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -10093,6 +10321,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -10138,6 +10367,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -10183,6 +10413,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -10226,6 +10457,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -10269,6 +10501,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -10312,6 +10545,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -10355,6 +10589,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -10398,6 +10633,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -10441,6 +10677,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -10484,6 +10721,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -10527,6 +10765,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -10570,6 +10809,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -10613,6 +10853,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": 1
       }
     },
@@ -10656,6 +10897,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": 1
       }
     },
@@ -10699,6 +10941,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -10742,6 +10985,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -10785,6 +11029,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -10828,6 +11073,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -10871,6 +11117,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -10914,6 +11161,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -10957,6 +11205,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -11000,6 +11249,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -11043,6 +11293,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -11086,6 +11337,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -11129,6 +11381,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -11172,6 +11425,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -11215,6 +11469,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -11258,6 +11513,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -11301,6 +11557,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -11344,6 +11601,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -11387,6 +11645,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -11430,6 +11689,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -11473,6 +11733,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -11516,6 +11777,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -11559,6 +11821,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -11602,6 +11865,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -11645,6 +11909,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -11688,6 +11953,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -11731,6 +11997,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -11774,6 +12041,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -11817,6 +12085,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -11860,6 +12129,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -11903,6 +12173,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -11946,6 +12217,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -11989,6 +12261,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -12032,6 +12305,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -12075,6 +12349,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -12118,6 +12393,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -12161,6 +12437,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -12204,6 +12481,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -12247,6 +12525,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -12290,6 +12569,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -12333,6 +12613,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -12376,6 +12657,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -12419,6 +12701,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -12462,6 +12745,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -12505,6 +12789,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -12548,6 +12833,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -12591,6 +12877,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -12634,6 +12921,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -12677,6 +12965,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -12720,6 +13009,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -12763,6 +13053,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -12806,6 +13097,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -12849,6 +13141,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -12892,6 +13185,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -12935,6 +13229,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -12980,6 +13275,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -13025,6 +13321,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -13068,6 +13365,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -13111,6 +13409,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -13154,6 +13453,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -13197,6 +13497,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -13240,6 +13541,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -13283,6 +13585,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -13326,6 +13629,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -13369,6 +13673,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -13412,6 +13717,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -13455,6 +13761,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -13498,6 +13805,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -13541,6 +13849,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -13584,6 +13893,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -13627,6 +13937,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -13670,6 +13981,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -13713,6 +14025,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -13756,6 +14069,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -13799,6 +14113,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -13842,6 +14157,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -13886,6 +14202,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -13929,6 +14246,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -13972,6 +14290,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -14015,6 +14334,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -14058,6 +14378,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -14101,6 +14422,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -14144,6 +14466,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -14187,6 +14510,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -14230,6 +14554,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -14273,6 +14598,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -14318,6 +14644,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -14363,6 +14690,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -14408,6 +14736,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -14451,6 +14780,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -14496,6 +14826,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -14541,6 +14872,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -14586,6 +14918,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -14631,6 +14964,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -14676,6 +15010,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -14722,6 +15057,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -14767,6 +15103,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -14812,6 +15149,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -14857,6 +15195,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -14902,6 +15241,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -14947,6 +15287,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -14992,6 +15333,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -15037,6 +15379,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -15082,6 +15425,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -15127,6 +15471,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -15172,6 +15517,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -15215,6 +15561,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -15258,6 +15605,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -15301,6 +15649,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -15344,6 +15693,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -15387,6 +15737,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -15430,6 +15781,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -15473,6 +15825,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -15516,6 +15869,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -15559,6 +15913,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -15602,6 +15957,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -15647,6 +16003,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -15690,6 +16047,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -15733,6 +16091,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -15776,6 +16135,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -15819,6 +16179,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -15862,6 +16223,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -15905,6 +16267,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -15948,6 +16311,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -15991,6 +16355,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -16034,6 +16399,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -16077,6 +16443,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -16120,6 +16487,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -16163,6 +16531,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -16208,6 +16577,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -16251,6 +16621,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -16296,6 +16667,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -16339,6 +16711,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -16382,6 +16755,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -16425,6 +16799,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -16468,6 +16843,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -16511,6 +16887,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -16554,6 +16931,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -16597,6 +16975,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -16642,6 +17021,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -16685,6 +17065,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -16728,6 +17109,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -16771,6 +17153,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -16814,6 +17197,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -16857,6 +17241,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -16900,6 +17285,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -16943,6 +17329,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -16986,6 +17373,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -17029,6 +17417,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -17072,6 +17461,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -17117,6 +17507,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -17160,6 +17551,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -17203,6 +17595,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -17246,6 +17639,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -17289,6 +17683,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -17332,6 +17727,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -17375,6 +17771,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -17418,6 +17815,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -17461,6 +17859,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -17504,6 +17903,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -17547,6 +17947,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -17590,6 +17991,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -17633,6 +18035,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -17676,6 +18079,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -17720,6 +18124,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -17763,6 +18168,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -17806,6 +18212,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -17849,6 +18256,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -17893,6 +18301,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -17937,6 +18346,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -17980,6 +18390,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -18023,6 +18434,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -18066,6 +18478,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -18109,6 +18522,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -18152,6 +18566,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -18195,6 +18610,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -18238,6 +18654,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -18281,6 +18698,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -18325,6 +18743,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -18368,6 +18787,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -18411,6 +18831,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -18456,6 +18877,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -18501,6 +18923,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -18544,6 +18967,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -18587,6 +19011,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -18630,6 +19055,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": 1
       }
     },
@@ -18673,6 +19099,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -18719,6 +19146,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -18763,6 +19191,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -18807,6 +19236,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -18851,6 +19281,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -18894,6 +19325,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -18939,6 +19371,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -18984,6 +19417,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -19029,6 +19463,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -19074,6 +19509,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -19119,6 +19555,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -19164,6 +19601,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -19209,6 +19647,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -19254,6 +19693,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -19299,6 +19739,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -19344,6 +19785,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -19389,6 +19831,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -19434,6 +19877,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -19479,6 +19923,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -19524,6 +19969,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -19569,6 +20015,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -19614,6 +20061,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -19659,6 +20107,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -19704,6 +20153,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -19749,6 +20199,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -19795,6 +20246,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -19840,6 +20292,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -19885,6 +20338,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -19930,6 +20384,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -19975,6 +20430,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -20020,6 +20476,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -20065,6 +20522,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -20110,6 +20568,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -20155,6 +20614,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -20198,6 +20658,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -20241,6 +20702,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -20284,6 +20746,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -20327,6 +20790,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -20370,6 +20834,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -20413,6 +20878,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -20456,6 +20922,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -20499,6 +20966,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -20542,6 +21010,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -20585,6 +21054,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -20630,6 +21100,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -20673,6 +21144,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -20716,6 +21188,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -20759,6 +21232,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -20802,6 +21276,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -20845,6 +21320,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -20888,6 +21364,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -20933,6 +21410,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -20976,6 +21454,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -21019,6 +21498,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -21064,6 +21544,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -21109,6 +21590,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -21154,6 +21636,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -21199,6 +21682,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -21244,6 +21728,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -21289,6 +21774,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -21332,6 +21818,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -21377,6 +21864,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -21420,6 +21908,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -21463,6 +21952,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -21506,6 +21996,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -21549,6 +22040,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -21592,6 +22084,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -21637,6 +22130,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -21680,6 +22174,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -21724,6 +22219,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -21767,6 +22263,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -21812,6 +22309,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -21857,6 +22355,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -21902,6 +22401,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -21947,6 +22447,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -21992,6 +22493,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -22037,6 +22539,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -22080,6 +22583,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -22125,6 +22629,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -22170,6 +22675,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -22215,6 +22721,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -22260,6 +22767,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -22303,6 +22811,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -22348,6 +22857,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -22393,6 +22903,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -22438,6 +22949,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -22481,6 +22993,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -22526,6 +23039,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -22571,6 +23085,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -22616,6 +23131,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -22661,6 +23177,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -22706,6 +23223,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -22751,6 +23269,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -22796,6 +23315,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -22841,6 +23361,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -22886,6 +23407,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -22931,6 +23453,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -22976,6 +23499,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -23021,6 +23545,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -23066,6 +23591,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -23111,6 +23637,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -23156,6 +23683,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -23201,6 +23729,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -23246,6 +23775,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -23289,6 +23819,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -23334,6 +23865,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -23379,6 +23911,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -23424,6 +23957,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -23469,6 +24003,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -23514,6 +24049,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -23559,6 +24095,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -23604,6 +24141,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -23649,6 +24187,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -23694,6 +24233,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -23739,6 +24279,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -23784,6 +24325,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -23829,6 +24371,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -23874,6 +24417,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -23919,6 +24463,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -23964,6 +24509,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -24009,6 +24555,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -24055,6 +24602,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -24100,6 +24648,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -24145,6 +24694,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -24190,6 +24740,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -24235,6 +24786,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -24280,6 +24832,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -24325,6 +24878,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -24370,6 +24924,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -24415,6 +24970,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -24460,6 +25016,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -24505,6 +25062,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -24550,6 +25108,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -24595,6 +25154,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -24640,6 +25200,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -24685,6 +25246,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -24730,6 +25292,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -24775,6 +25338,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -24820,6 +25384,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -24865,6 +25430,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -24910,6 +25476,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -24955,6 +25522,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -25000,6 +25568,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -25045,6 +25614,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -25090,6 +25660,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -25135,6 +25706,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -25180,6 +25752,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -25225,6 +25798,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -25270,6 +25844,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -25315,6 +25890,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -25360,6 +25936,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -25405,6 +25982,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -25450,6 +26028,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -25495,6 +26074,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -25540,6 +26120,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -25585,6 +26166,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -25630,6 +26212,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -25675,6 +26258,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -25720,6 +26304,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -25765,6 +26350,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -25810,6 +26396,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -25855,6 +26442,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -25900,6 +26488,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -25945,6 +26534,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -25990,6 +26580,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -26035,6 +26626,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -26080,6 +26672,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -26125,6 +26718,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -26170,6 +26764,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -26215,6 +26810,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -26260,6 +26856,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -26306,6 +26903,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -26351,6 +26949,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -26396,6 +26995,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -26441,6 +27041,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -26486,6 +27087,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -26531,6 +27133,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -26576,6 +27179,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -26621,6 +27225,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -26666,6 +27271,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -26711,6 +27317,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -26757,6 +27364,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -26802,6 +27410,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -26847,6 +27456,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -26892,6 +27502,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -26937,6 +27548,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -26982,6 +27594,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -27027,6 +27640,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -27072,6 +27686,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -27115,6 +27730,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -27158,6 +27774,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -27201,6 +27818,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -27244,6 +27862,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -27287,6 +27906,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -27332,6 +27952,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -27377,6 +27998,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -27420,6 +28042,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -27463,6 +28086,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -27508,6 +28132,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -27553,6 +28178,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -27598,6 +28224,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -27643,6 +28270,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -27688,6 +28316,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -27733,6 +28362,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -27778,6 +28408,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -27823,6 +28454,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -27868,6 +28500,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -27913,6 +28546,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -27958,6 +28592,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -28003,6 +28638,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -28048,6 +28684,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -28093,6 +28730,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -28138,6 +28776,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -28183,6 +28822,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -28228,6 +28868,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -28271,6 +28912,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -28314,6 +28956,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -28357,6 +29000,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -28402,6 +29046,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -28447,6 +29092,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -28492,6 +29138,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -28537,6 +29184,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -28582,6 +29230,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -28627,6 +29276,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -28670,6 +29320,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -28713,6 +29364,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -28756,6 +29408,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -28801,6 +29454,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -28846,6 +29500,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -28891,6 +29546,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -28936,6 +29592,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -28981,6 +29638,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -29026,6 +29684,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -29071,6 +29730,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -29116,6 +29776,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -29161,6 +29822,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -29206,6 +29868,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -29251,6 +29914,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -29296,6 +29960,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -29341,6 +30006,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -29384,6 +30050,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -29429,6 +30096,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -29472,6 +30140,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -29515,6 +30184,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -29558,6 +30228,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -29601,6 +30272,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -29646,6 +30318,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -29691,6 +30364,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -29736,6 +30410,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -29779,6 +30454,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -29822,6 +30498,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -29865,6 +30542,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -29910,6 +30588,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -29955,6 +30634,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -30000,6 +30680,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -30045,6 +30726,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -30090,6 +30772,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -30135,6 +30818,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -30178,6 +30862,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -30221,6 +30906,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -30264,6 +30950,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -30307,6 +30994,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -30352,6 +31040,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -30397,6 +31086,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -30440,6 +31130,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -30485,6 +31176,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -30528,6 +31220,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -30573,6 +31266,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -30616,6 +31310,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -30659,6 +31354,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -30702,6 +31398,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -30747,6 +31444,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -30792,6 +31490,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -30835,6 +31534,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -30878,6 +31578,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -30923,6 +31624,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -30968,6 +31670,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -31011,6 +31714,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -31054,6 +31758,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -31097,6 +31802,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -31140,6 +31846,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -31183,6 +31890,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -31228,6 +31936,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -31273,6 +31982,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -31318,6 +32028,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -31363,6 +32074,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -31408,6 +32120,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -31453,6 +32166,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -31498,6 +32212,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -31543,6 +32258,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -31588,6 +32304,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -31633,6 +32350,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -31678,6 +32396,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -31723,6 +32442,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -31768,6 +32488,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -31813,6 +32534,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -31856,6 +32578,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -31899,6 +32622,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -31942,6 +32666,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -31985,6 +32710,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -32028,6 +32754,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -32071,6 +32798,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -32116,6 +32844,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -32161,6 +32890,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -32206,6 +32936,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -32249,6 +32980,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -32294,6 +33026,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -32339,6 +33072,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -32384,6 +33118,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -32429,6 +33164,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -32472,6 +33208,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -32517,6 +33254,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -32562,6 +33300,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -32607,6 +33346,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -32652,6 +33392,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -32697,6 +33438,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -32742,6 +33484,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -32785,6 +33528,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -32828,6 +33572,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -32871,6 +33616,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -32914,6 +33660,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -32957,6 +33704,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -33000,6 +33748,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -33043,6 +33792,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -33086,6 +33836,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -33129,6 +33880,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -33172,6 +33924,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -33215,6 +33968,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -33258,6 +34012,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -33301,6 +34056,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -33344,6 +34100,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -33387,6 +34144,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -33430,6 +34188,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -33473,6 +34232,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -33516,6 +34276,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -33559,6 +34320,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -33602,6 +34364,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -33645,6 +34408,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -33690,6 +34454,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -33735,6 +34500,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
@@ -33778,6 +34544,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
+        "UseCap": null,
         "UseLimit": null
       }
     },
