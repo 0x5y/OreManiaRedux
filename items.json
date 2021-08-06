@@ -2957,7 +2957,7 @@
           }
         },
         "Portable": true,
-        "UsableDistance": true,
+        "UsableDistance": 2,
         "UseLimit": null
       }
     },
