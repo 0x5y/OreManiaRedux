@@ -3415,7 +3415,7 @@
             "Item1": null,
             "Item2": null
           },
-          "Multiplier": null,
+          "Multiplier": 1.55,
           "OreValue": null,
           "ValueRange": {
             "Item1": null,
@@ -3424,7 +3424,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
-        "UseCap": null,
+        "UseCap": 4e9,
         "UseLimit": null
       }
     },
@@ -3468,8 +3468,8 @@
         },
         "Portable": false,
         "UsableDistance": null,
-        "UseCap": null,
-        "UseLimit": 60000000000
+        "UseCap": 60e9,
+        "UseLimit": null
       }
     },
     "ItemType": 3,
@@ -3635,7 +3635,7 @@
             "Item1": null,
             "Item2": null
           },
-          "Multiplier": null,
+          "Multiplier": 3,
           "OreValue": null,
           "ValueRange": {
             "Item1": null,
@@ -3645,7 +3645,7 @@
         "Portable": false,
         "UsableDistance": null,
         "UseCap": null,
-        "UseLimit": null
+        "UseLimit": 1
       }
     },
     "ItemType": 3,
@@ -3681,7 +3681,7 @@
             "Item1": null,
             "Item2": null
           },
-          "Multiplier": null,
+          "Multiplier": 5,
           "OreValue": null,
           "ValueRange": {
             "Item1": null,
@@ -3691,7 +3691,7 @@
         "Portable": false,
         "UsableDistance": null,
         "UseCap": null,
-        "UseLimit": null
+        "UseLimit": 1
       }
     },
     "ItemType": 3,
@@ -4003,7 +4003,7 @@
             "Item1": null,
             "Item2": null
           },
-          "Multiplier": null,
+          "Multiplier": 4,
           "OreValue": null,
           "ValueRange": {
             "Item1": null,
@@ -4013,7 +4013,7 @@
         "Portable": false,
         "UsableDistance": null,
         "UseCap": null,
-        "UseLimit": null
+        "UseLimit": 1
       }
     },
     "ItemType": 3,
@@ -4033,8 +4033,8 @@
     "ItemStats": {
       "Effects": [
         {
-          "Duration": null,
-          "EffectName": null
+          "Duration": 5,
+          "EffectName": "Fire"
         }
       ],
       "Values": {
@@ -4049,17 +4049,17 @@
             "Item1": null,
             "Item2": null
           },
-          "Multiplier": null,
+          "Multiplier": 2.66,
           "OreValue": null,
           "ValueRange": {
             "Item1": null,
             "Item2": null
           }
         },
-        "Portable": false,
-        "UsableDistance": null,
+        "Portable": true,
+        "UsableDistance": 2,
         "UseCap": null,
-        "UseLimit": null
+        "UseLimit": 999
       }
     },
     "ItemType": 3,
@@ -4095,7 +4095,7 @@
             "Item1": null,
             "Item2": null
           },
-          "Multiplier": null,
+          "Multiplier": 1.45,
           "OreValue": null,
           "ValueRange": {
             "Item1": null,
@@ -4104,7 +4104,7 @@
         },
         "Portable": false,
         "UsableDistance": null,
-        "UseCap": null,
+        "UseCap": 800e6,
         "UseLimit": null
       }
     },
@@ -4139,7 +4139,7 @@
             "Item1": null,
             "Item2": null
           },
-          "Multiplier": null,
+          "Multiplier": 4,
           "OreValue": null,
           "ValueRange": {
             "Item1": null,
@@ -4149,7 +4149,7 @@
         "Portable": false,
         "UsableDistance": null,
         "UseCap": null,
-        "UseLimit": null
+        "UseLimit": 1
       }
     },
     "ItemType": 3,
@@ -4185,7 +4185,7 @@
             "Item1": null,
             "Item2": null
           },
-          "Multiplier": null,
+          "Multiplier": 2.5,
           "OreValue": null,
           "ValueRange": {
             "Item1": null,
@@ -4195,7 +4195,7 @@
         "Portable": false,
         "UsableDistance": null,
         "UseCap": null,
-        "UseLimit": null
+        "UseLimit": 2
       }
     },
     "ItemType": 3,
@@ -4231,7 +4231,7 @@
             "Item1": null,
             "Item2": null
           },
-          "Multiplier": null,
+          "Multiplier": 2,
           "OreValue": null,
           "ValueRange": {
             "Item1": null,
@@ -4241,7 +4241,7 @@
         "Portable": false,
         "UsableDistance": null,
         "UseCap": null,
-        "UseLimit": null
+        "UseLimit": 2
       }
     },
     "ItemType": 3,
@@ -4415,7 +4415,7 @@
             "Item1": null,
             "Item2": null
           },
-          "Multiplier": null,
+          "Multiplier": 4,
           "OreValue": null,
           "ValueRange": {
             "Item1": null,
@@ -4425,7 +4425,7 @@
         "Portable": false,
         "UsableDistance": null,
         "UseCap": null,
-        "UseLimit": null
+        "UseLimit": 1
       }
     },
     "ItemType": 3,
@@ -4461,7 +4461,7 @@
             "Item1": null,
             "Item2": null
           },
-          "Multiplier": null,
+          "Multiplier": 4,
           "OreValue": null,
           "ValueRange": {
             "Item1": null,
@@ -4471,7 +4471,7 @@
         "Portable": false,
         "UsableDistance": null,
         "UseCap": null,
-        "UseLimit": null
+        "UseLimit": 1
       }
     },
     "ItemType": 3,
@@ -4627,8 +4627,8 @@
     "ItemStats": {
       "Effects": [
         {
-          "Duration": null,
-          "EffectName": null
+          "Duration": 999,
+          "EffectName": "Chance to turn ores into ice."
         }
       ],
       "Values": {
@@ -4643,7 +4643,7 @@
             "Item1": null,
             "Item2": null
           },
-          "Multiplier": null,
+          "Multiplier": 4,
           "OreValue": null,
           "ValueRange": {
             "Item1": null,
@@ -4653,7 +4653,7 @@
         "Portable": false,
         "UsableDistance": null,
         "UseCap": null,
-        "UseLimit": null
+        "UseLimit": 1
       }
     },
     "ItemType": 3,
