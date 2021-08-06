@@ -13154,50 +13154,6 @@
   },
   {
     "Cost": 0,
-    "Description": "You've obtained something not ever meant to be obtained.",
-    "ItemId": 294,
-    "ItemName": "Yegdfrgfd",
-    "ItemStats": {
-      "Effects": [
-        {
-          "Duration": null,
-          "EffectName": null
-        }
-      ],
-      "Values": {
-        "OreChange": {
-          "AddRange": {
-            "Item1": null,
-            "Item2": null
-          },
-          "AddValue": null,
-          "DropTime": null,
-          "MultiRange": {
-            "Item1": null,
-            "Item2": null
-          },
-          "Multiplier": null,
-          "OreValue": null,
-          "ValueRange": {
-            "Item1": null,
-            "Item2": null
-          }
-        },
-        "Portable": false,
-        "UsableDistance": null,
-        "UseCap": null,
-        "UseLimit": null
-      }
-    },
-    "ItemType": 3,
-    "Length": 12,
-    "ShinyId": 0,
-    "ThumbnailId": "https://tr.rbxcdn.com/bdd4c2213b8fd48606280ba0fe710720/110/110/Decal/Png",
-    "Tier": 24,
-    "Width": 24
-  },
-  {
-    "Cost": 0,
     "Description": "This small device cleans your ores and provide a 4x upgrade.",
     "ItemId": 295,
     "ItemName": "Deep Sea Cleanser",
