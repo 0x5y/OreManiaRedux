@@ -41404,5 +41404,58 @@
     "ThumbnailId": "https://t4.rbxcdn.com/1bfb7702ee58303998a82b5d81b0ab12",
     "Tier": 30,
     "Width": 18
+  },
+  {
+    "Cost": 0,
+    "Description": "Shards are obtained through salvaging and renewing.",
+    "ItemId": 768,
+    "ItemName": "Shards",
+    "ItemStats": {
+      "Effects": [
+        {
+          "Duration": null,
+          "EffectName": null
+        }
+      ],
+      "Values": {
+        "HasIngredients": false,
+        "Ingredients": [
+          {
+            "Item1": null,
+            "Item2": null
+          }
+        ],
+        "IsEvoOrCompound": false,
+        "OreChange": {
+          "AddRange": {
+            "Item1": null,
+            "Item2": null
+          },
+          "AddValue": null,
+          "DropTime": null,
+          "MultiRange": {
+            "Item1": null,
+            "Item2": null
+          },
+          "Multiplier": null,
+          "OreValue": null,
+          "ValueRange": {
+            "Item1": null,
+            "Item2": null
+          }
+        },
+        "Portable": false,
+        "UnusableItemIDs": [],
+        "UsableDistance": null,
+        "UseCap": null,
+        "UseLimit": null
+      }
+    },
+    "ItemType": 5,
+    "Length": 3,
+    "ShinyId": 0,
+    "ThumbnailId": "https://t6.rbxcdn.com/ecb49736ca023b360f22b4c11bb10851",
+    "Tier": 1,
+    "Width": 3
   }
 ]
