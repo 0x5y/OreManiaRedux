@@ -18708,11 +18708,39 @@
         }
       ],
       "Values": {
-        "HasIngredients": false,
+        "HasIngredients": true,
         "Ingredients": [
           {
-            "Item1": null,
-            "Item2": null
+            "Item1": 768,
+            "Item2": 300
+          },
+          {
+            "Item1": 184,
+            "Item2": 5
+          },
+          {
+            "Item1": 47,
+            "Item2": 10000
+          },
+          {
+            "Item1": 96,
+            "Item2": 10
+          },
+          {
+            "Item1": 275,
+            "Item2": 1
+          },
+          {
+            "Item1": 159,
+            "Item2": 1
+          },
+          {
+            "Item1": 308,
+            "Item2": 3
+          },
+          {
+            "Item1": 113,
+            "Item2": 5
           }
         ],
         "IsEvoOrCompound": false,
@@ -18724,8 +18752,8 @@
           "AddValue": null,
           "DropTime": null,
           "MultiRange": {
-            "Item1": null,
-            "Item2": null
+            "Item1": 0,
+            "Item2": 1e7
           },
           "Multiplier": null,
           "OreValue": null,
