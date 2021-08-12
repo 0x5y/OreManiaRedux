@@ -37261,7 +37261,7 @@
             "Item1": null,
             "Item2": null
           },
-          "Multiplier": null,
+          "Multiplier": 150,
           "OreValue": null,
           "ValueRange": {
             "Item1": null,
@@ -37272,7 +37272,7 @@
         "UnusableItemIDs": [],
         "UsableDistance": null,
         "UseCap": null,
-        "UseLimit": null
+        "UseLimit": 1
       }
     },
     "ItemType": 3,
