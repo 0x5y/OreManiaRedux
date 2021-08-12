@@ -11993,7 +11993,7 @@
             "Item1": null,
             "Item2": null
           },
-          "Multiplier": null,
+          "Multiplier": 1e6,
           "OreValue": null,
           "ValueRange": {
             "Item1": null,
@@ -12007,7 +12007,7 @@
         "UseLimit": null
       }
     },
-    "ItemType": 3,
+    "ItemType": 2,
     "Length": 42,
     "LifeDependency": 5,
     "RebirthRarity": 3,
