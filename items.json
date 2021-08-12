@@ -19123,10 +19123,10 @@
           "AddValue": null,
           "DropTime": null,
           "MultiRange": {
-            "Item1": null,
-            "Item2": null
+            "Item1": 2,
+            "Item2": 750e9
           },
-          "Multiplier": null,
+          "Multiplier": 2,
           "OreValue": null,
           "ValueRange": {
             "Item1": null,
@@ -19137,7 +19137,7 @@
         "UnusableItemIDs": [],
         "UsableDistance": null,
         "UseCap": null,
-        "UseLimit": null
+        "UseLimit": 1
       }
     },
     "ItemType": 2,
