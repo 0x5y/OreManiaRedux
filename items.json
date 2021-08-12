@@ -40700,11 +40700,31 @@
         }
       ],
       "Values": {
-        "HasIngredients": false,
+        "HasIngredients": true,
         "Ingredients": [
           {
-            "Item1": null,
-            "Item2": null
+            "Item1": 105,
+            "Item2": 1
+          },
+          {
+            "Item1": 492,
+            "Item2": 1
+          },
+          {
+            "Item1": 302,
+            "Item2": 1
+          },
+          {
+            "Item1": 307,
+            "Item2": 1
+          },
+          {
+            "Item1": 716,
+            "Item2": 1
+          },
+          {
+            "Item1": 504,
+            "Item2": 1
           }
         ],
         "IsEvoOrCompound": false,
