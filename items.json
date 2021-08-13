@@ -16005,14 +16005,18 @@
         }
       ],
       "Values": {
-        "HasIngredients": false,
+        "HasIngredients": true,
         "Ingredients": [
           {
-            "Item1": null,
-            "Item2": null
+            "Item1": 167,
+            "Item2": 5
+          },
+          {
+            "Item1": 168,
+            "Item2": 5
           }
         ],
-        "IsEvoOrCompound": false,
+        "IsEvoOrCompound": true,
         "OreChange": {
           "AddRange": {
             "Item1": null,
@@ -16058,14 +16062,18 @@
         }
       ],
       "Values": {
-        "HasIngredients": false,
+        "HasIngredients": true,
         "Ingredients": [
           {
-            "Item1": null,
-            "Item2": null
+            "Item1": 179,
+            "Item2": 4
+          },
+          {
+            "Item1": 432,
+            "Item2": 8
           }
         ],
-        "IsEvoOrCompound": false,
+        "IsEvoOrCompound": true,
         "OreChange": {
           "AddRange": {
             "Item1": null,
@@ -16085,7 +16093,7 @@
           }
         },
         "Portable": false,
-        "UnusableItemIDs": [],
+        "UnusableItemIDs": [179, 432],
         "UsableDistance": null,
         "UseCap": null,
         "UseLimit": null
@@ -16164,14 +16172,18 @@
         }
       ],
       "Values": {
-        "HasIngredients": false,
+        "HasIngredients": true,
         "Ingredients": [
           {
-            "Item1": null,
-            "Item2": null
+            "Item1": 167,
+            "Item2": 5
+          },
+          {
+            "Item1": 168,
+            "Item2": 5
           }
         ],
-        "IsEvoOrCompound": false,
+        "IsEvoOrCompound": true,
         "OreChange": {
           "AddRange": {
             "Item1": null,
@@ -16217,14 +16229,18 @@
         }
       ],
       "Values": {
-        "HasIngredients": false,
+        "HasIngredients": true,
         "Ingredients": [
           {
-            "Item1": null,
-            "Item2": null
+            "Item1": 167,
+            "Item2": 5
+          },
+          {
+            "Item1": 168,
+            "Item2": 5
           }
         ],
-        "IsEvoOrCompound": false,
+        "IsEvoOrCompound": true,
         "OreChange": {
           "AddRange": {
             "Item1": null,
@@ -16270,14 +16286,18 @@
         }
       ],
       "Values": {
-        "HasIngredients": false,
+        "HasIngredients": true,
         "Ingredients": [
           {
-            "Item1": null,
-            "Item2": null
+            "Item1": 179,
+            "Item2": 5
+          },
+          {
+            "Item1": 105,
+            "Item2": 7
           }
         ],
-        "IsEvoOrCompound": false,
+        "IsEvoOrCompound": true,
         "OreChange": {
           "AddRange": {
             "Item1": null,
@@ -16323,14 +16343,18 @@
         }
       ],
       "Values": {
-        "HasIngredients": false,
+        "HasIngredients": true,
         "Ingredients": [
           {
-            "Item1": null,
-            "Item2": null
+            "Item1": 155,
+            "Item2": 7
+          },
+          {
+            "Item1": 173,
+            "Item2": 4
           }
         ],
-        "IsEvoOrCompound": false,
+        "IsEvoOrCompound": true,
         "OreChange": {
           "AddRange": {
             "Item1": null,
@@ -16350,7 +16374,7 @@
           }
         },
         "Portable": false,
-        "UnusableItemIDs": [],
+        "UnusableItemIDs": [155, 173],
         "UsableDistance": null,
         "UseCap": null,
         "UseLimit": null
@@ -16376,14 +16400,18 @@
         }
       ],
       "Values": {
-        "HasIngredients": false,
+        "HasIngredients": true,
         "Ingredients": [
           {
-            "Item1": null,
-            "Item2": null
+            "Item1": 167,
+            "Item2": 5
+          },
+          {
+            "Item1": 168,
+            "Item2": 5
           }
         ],
-        "IsEvoOrCompound": false,
+        "IsEvoOrCompound": true,
         "OreChange": {
           "AddRange": {
             "Item1": null,
@@ -16482,14 +16510,18 @@
         }
       ],
       "Values": {
-        "HasIngredients": false,
+        "HasIngredients": true,
         "Ingredients": [
           {
-            "Item1": null,
-            "Item2": null
+            "Item1": 167,
+            "Item2": 5
+          },
+          {
+            "Item1": 168,
+            "Item2": 5
           }
         ],
-        "IsEvoOrCompound": false,
+        "IsEvoOrCompound": true,
         "OreChange": {
           "AddRange": {
             "Item1": null,
@@ -16535,14 +16567,18 @@
         }
       ],
       "Values": {
-        "HasIngredients": false,
+        "HasIngredients": true,
         "Ingredients": [
           {
-            "Item1": null,
-            "Item2": null
+            "Item1": 167,
+            "Item2": 5
+          },
+          {
+            "Item1": 168,
+            "Item2": 5
           }
         ],
-        "IsEvoOrCompound": false,
+        "IsEvoOrCompound": true,
         "OreChange": {
           "AddRange": {
             "Item1": null,
@@ -19198,14 +19234,18 @@
         }
       ],
       "Values": {
-        "HasIngredients": false,
+        "HasIngredients": true,
         "Ingredients": [
           {
-            "Item1": null,
-            "Item2": null
+            "Item1": 97,
+            "Item2": 3
+          },
+          {
+            "Item1": 356,
+            "Item2": 5
           }
         ],
-        "IsEvoOrCompound": false,
+        "IsEvoOrCompound": true,
         "OreChange": {
           "AddRange": {
             "Item1": null,
@@ -20186,14 +20226,18 @@
         }
       ],
       "Values": {
-        "HasIngredients": false,
+        "HasIngredients": true,
         "Ingredients": [
           {
-            "Item1": null,
-            "Item2": null
+            "Item1": 167,
+            "Item2": 5
+          },
+          {
+            "Item1": 168,
+            "Item2": 5
           }
         ],
-        "IsEvoOrCompound": false,
+        "IsEvoOrCompound": true,
         "OreChange": {
           "AddRange": {
             "Item1": null,
@@ -21197,14 +21241,18 @@
         }
       ],
       "Values": {
-        "HasIngredients": false,
+        "HasIngredients": true,
         "Ingredients": [
           {
-            "Item1": null,
-            "Item2": null
+            "Item1": 105,
+            "Item2": 6
+          },
+          {
+            "Item1": 137,
+            "Item2": 5
           }
         ],
-        "IsEvoOrCompound": false,
+        "IsEvoOrCompound": true,
         "OreChange": {
           "AddRange": {
             "Item1": null,
@@ -21224,7 +21272,7 @@
           }
         },
         "Portable": false,
-        "UnusableItemIDs": [],
+        "UnusableItemIDs": [105, 137],
         "UsableDistance": null,
         "UseCap": null,
         "UseLimit": 1
@@ -25830,14 +25878,18 @@
         }
       ],
       "Values": {
-        "HasIngredients": false,
+        "HasIngredients": true,
         "Ingredients": [
           {
-            "Item1": null,
-            "Item2": null
+            "Item1": 167,
+            "Item2": 5
+          },
+          {
+            "Item1": 168,
+            "Item2": 5
           }
         ],
-        "IsEvoOrCompound": false,
+        "IsEvoOrCompound": true,
         "OreChange": {
           "AddRange": {
             "Item1": null,
@@ -26590,11 +26642,15 @@
         }
       ],
       "Values": {
-        "HasIngredients": false,
+        "HasIngredients": true,
         "Ingredients": [
           {
-            "Item1": null,
-            "Item2": null
+            "Item1": 105,
+            "Item2": 4
+          },
+          {
+            "Item1": 92,
+            "Item2": 3
           }
         ],
         "IsEvoOrCompound": false,
@@ -26698,14 +26754,18 @@
         }
       ],
       "Values": {
-        "HasIngredients": false,
+        "HasIngredients": true,
         "Ingredients": [
           {
-            "Item1": null,
-            "Item2": null
+            "Item1": 167,
+            "Item2": 5
+          },
+          {
+            "Item1": 168,
+            "Item2": 5
           }
         ],
-        "IsEvoOrCompound": false,
+        "IsEvoOrCompound": true,
         "OreChange": {
           "AddRange": {
             "Item1": null,
@@ -26751,14 +26811,18 @@
         }
       ],
       "Values": {
-        "HasIngredients": false,
+        "HasIngredients": true,
         "Ingredients": [
           {
-            "Item1": null,
-            "Item2": null
+            "Item1": 128,
+            "Item2": 5
+          },
+          {
+            "Item1": 91,
+            "Item2": 5
           }
         ],
-        "IsEvoOrCompound": false,
+        "IsEvoOrCompound": true,
         "OreChange": {
           "AddRange": {
             "Item1": null,
@@ -26778,7 +26842,7 @@
           }
         },
         "Portable": false,
-        "UnusableItemIDs": [],
+        "UnusableItemIDs": [128, 91],
         "UsableDistance": null,
         "UseCap": null,
         "UseLimit": 1
@@ -26805,14 +26869,18 @@
         }
       ],
       "Values": {
-        "HasIngredients": false,
+        "HasIngredients": true,
         "Ingredients": [
           {
-            "Item1": null,
-            "Item2": null
+            "Item1": 155,
+            "Item2": 7
+          },
+          {
+            "Item1": 156,
+            "Item2": 4
           }
         ],
-        "IsEvoOrCompound": false,
+        "IsEvoOrCompound": true,
         "OreChange": {
           "AddRange": {
             "Item1": null,
@@ -26832,7 +26900,7 @@
           }
         },
         "Portable": false,
-        "UnusableItemIDs": [],
+        "UnusableItemIDs": [155],
         "UsableDistance": null,
         "UseCap": null,
         "UseLimit": null
@@ -33449,14 +33517,18 @@
         }
       ],
       "Values": {
-        "HasIngredients": false,
+        "HasIngredients": true,
         "Ingredients": [
           {
-            "Item1": null,
-            "Item2": null
+            "Item1": 167,
+            "Item2": 5
+          },
+          {
+            "Item1": 168,
+            "Item2": 5
           }
         ],
-        "IsEvoOrCompound": false,
+        "IsEvoOrCompound": true,
         "OreChange": {
           "AddRange": {
             "Item1": null,
@@ -33502,11 +33574,15 @@
         }
       ],
       "Values": {
-        "HasIngredients": false,
+        "HasIngredients": true,
         "Ingredients": [
           {
-            "Item1": null,
-            "Item2": null
+            "Item1": 427,
+            "Item2": 5
+          },
+          {
+            "Item1": 390,
+            "Item2": 4
           }
         ],
         "IsEvoOrCompound": false,
@@ -35301,14 +35377,18 @@
         }
       ],
       "Values": {
-        "HasIngredients": false,
+        "HasIngredients": true,
         "Ingredients": [
           {
-            "Item1": null,
-            "Item2": null
+            "Item1": 167,
+            "Item2": 5
+          },
+          {
+            "Item1": 168,
+            "Item2": 5
           }
         ],
-        "IsEvoOrCompound": false,
+        "IsEvoOrCompound": true,
         "OreChange": {
           "AddRange": {
             "Item1": null,
@@ -36607,14 +36687,18 @@
         }
       ],
       "Values": {
-        "HasIngredients": false,
+        "HasIngredients": true,
         "Ingredients": [
           {
-            "Item1": null,
-            "Item2": null
+            "Item1": 167,
+            "Item2": 5
+          },
+          {
+            "Item1": 168,
+            "Item2": 5
           }
         ],
-        "IsEvoOrCompound": false,
+        "IsEvoOrCompound": true,
         "OreChange": {
           "AddRange": {
             "Item1": null,
@@ -36660,14 +36744,18 @@
         }
       ],
       "Values": {
-        "HasIngredients": false,
+        "HasIngredients": true,
         "Ingredients": [
           {
-            "Item1": null,
-            "Item2": null
+            "Item1": 167,
+            "Item2": 5
+          },
+          {
+            "Item1": 168,
+            "Item2": 5
           }
         ],
-        "IsEvoOrCompound": false,
+        "IsEvoOrCompound": true,
         "OreChange": {
           "AddRange": {
             "Item1": null,
@@ -36713,14 +36801,18 @@
         }
       ],
       "Values": {
-        "HasIngredients": false,
+        "HasIngredients": true,
         "Ingredients": [
           {
-            "Item1": null,
-            "Item2": null
+            "Item1": 125,
+            "Item2": 8
+          },
+          {
+            "Item1": 169,
+            "Item2": 6
           }
         ],
-        "IsEvoOrCompound": false,
+        "IsEvoOrCompound": true,
         "OreChange": {
           "AddRange": {
             "Item1": null,
@@ -36740,7 +36832,7 @@
           }
         },
         "Portable": false,
-        "UnusableItemIDs": [],
+        "UnusableItemIDs": [125, 169],
         "UsableDistance": null,
         "UseCap": null,
         "UseLimit": null
@@ -37096,14 +37188,18 @@
         }
       ],
       "Values": {
-        "HasIngredients": false,
+        "HasIngredients": true,
         "Ingredients": [
           {
-            "Item1": null,
-            "Item2": null
+            "Item1": 167,
+            "Item2": 5
+          },
+          {
+            "Item1": 168,
+            "Item2": 5
           }
         ],
-        "IsEvoOrCompound": false,
+        "IsEvoOrCompound": true,
         "OreChange": {
           "AddRange": {
             "Item1": null,
@@ -37149,14 +37245,18 @@
         }
       ],
       "Values": {
-        "HasIngredients": false,
+        "HasIngredients": true,
         "Ingredients": [
           {
-            "Item1": null,
-            "Item2": null
+            "Item1": 167,
+            "Item2": 5
+          },
+          {
+            "Item1": 168,
+            "Item2": 5
           }
         ],
-        "IsEvoOrCompound": false,
+        "IsEvoOrCompound": true,
         "OreChange": {
           "AddRange": {
             "Item1": null,
@@ -39207,14 +39307,18 @@
         }
       ],
       "Values": {
-        "HasIngredients": false,
+        "HasIngredients": true,
         "Ingredients": [
           {
-            "Item1": null,
-            "Item2": null
+            "Item1": 167,
+            "Item2": 5
+          },
+          {
+            "Item1": 168,
+            "Item2": 5
           }
         ],
-        "IsEvoOrCompound": false,
+        "IsEvoOrCompound": true,
         "OreChange": {
           "AddRange": {
             "Item1": null,
@@ -39260,14 +39364,18 @@
         }
       ],
       "Values": {
-        "HasIngredients": false,
+        "HasIngredients": true,
         "Ingredients": [
           {
-            "Item1": null,
-            "Item2": null
+            "Item1": 167,
+            "Item2": 5
+          },
+          {
+            "Item1": 168,
+            "Item2": 5
           }
         ],
-        "IsEvoOrCompound": false,
+        "IsEvoOrCompound": true,
         "OreChange": {
           "AddRange": {
             "Item1": null,
@@ -39419,14 +39527,18 @@
         }
       ],
       "Values": {
-        "HasIngredients": false,
+        "HasIngredients": true,
         "Ingredients": [
           {
-            "Item1": null,
-            "Item2": null
+            "Item1": 672,
+            "Item2": 8
+          },
+          {
+            "Item1": 154,
+            "Item2": 7
           }
         ],
-        "IsEvoOrCompound": false,
+        "IsEvoOrCompound": true,
         "OreChange": {
           "AddRange": {
             "Item1": null,
@@ -39446,7 +39558,7 @@
           }
         },
         "Portable": false,
-        "UnusableItemIDs": [],
+        "UnusableItemIDs": [672, 154],
         "UsableDistance": null,
         "UseCap": null,
         "UseLimit": null
@@ -40985,11 +41097,31 @@
         }
       ],
       "Values": {
-        "HasIngredients": false,
+        "HasIngredients": true,
         "Ingredients": [
           {
-            "Item1": null,
-            "Item2": null
+            "Item1": 695,
+            "Item2": 1
+          },
+          {
+            "Item1": 393,
+            "Item2": 1
+          },
+          {
+            "Item1": 301,
+            "Item2": 1
+          },
+          {
+            "Item1": 483,
+            "Item2": 1
+          },
+          {
+            "Item1": 718,
+            "Item2": 1
+          },
+          {
+            "Item1": 697,
+            "Item2": 1
           }
         ],
         "IsEvoOrCompound": false,
@@ -41038,11 +41170,31 @@
         }
       ],
       "Values": {
-        "HasIngredients": false,
+        "HasIngredients": true,
         "Ingredients": [
           {
-            "Item1": null,
-            "Item2": null
+            "Item1": 155,
+            "Item2": 1
+          },
+          {
+            "Item1": 496,
+            "Item2": 1
+          },
+          {
+            "Item1": 304,
+            "Item2": 1
+          },
+          {
+            "Item1": 221,
+            "Item2": 1
+          },
+          {
+            "Item1": 220,
+            "Item2": 1
+          },
+          {
+            "Item1": 677,
+            "Item2": 1
           }
         ],
         "IsEvoOrCompound": false,
@@ -41091,11 +41243,27 @@
         }
       ],
       "Values": {
-        "HasIngredients": false,
+        "HasIngredients": true,
         "Ingredients": [
           {
-            "Item1": null,
-            "Item2": null
+            "Item1": 295,
+            "Item2": 1
+          },
+          {
+            "Item1": 297,
+            "Item2": 1
+          },
+          {
+            "Item1": 726,
+            "Item2": 1
+          },
+          {
+            "Item1": 678,
+            "Item2": 1
+          },
+          {
+            "Item1": 497,
+            "Item2": 1
           }
         ],
         "IsEvoOrCompound": false,
@@ -41144,11 +41312,35 @@
         }
       ],
       "Values": {
-        "HasIngredients": false,
+        "HasIngredients": true,
         "Ingredients": [
           {
-            "Item1": null,
-            "Item2": null
+            "Item1": 669,
+            "Item2": 1
+          },
+          {
+            "Item1": 186,
+            "Item2": 1
+          },
+          {
+            "Item1": 482,
+            "Item2": 1
+          },
+          {
+            "Item1": 482,
+            "Item2": 1
+          },
+          {
+            "Item1": 477,
+            "Item2": 1
+          },
+          {
+            "Item1": 276,
+            "Item2": 1
+          },
+          {
+            "Item1": 714,
+            "Item2": 1
           }
         ],
         "IsEvoOrCompound": false,
