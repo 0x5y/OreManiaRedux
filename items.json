@@ -40329,7 +40329,7 @@
         }
       ],
       "Values": {
-        "HasIngredients": false,
+        "HasIngredients": true,
         "Ingredients": [
           {
             "Item1": 685,
