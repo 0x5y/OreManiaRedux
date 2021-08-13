@@ -37952,11 +37952,11 @@
         }
       ],
       "Values": {
-        "HasIngredients": false,
+        "HasIngredients": true,
         "Ingredients": [
           {
-            "Item1": null,
-            "Item2": null
+            "Item1": 217,
+            "Item2": 3
           }
         ],
         "IsEvoOrCompound": false,
