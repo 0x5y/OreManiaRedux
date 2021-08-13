@@ -40365,7 +40365,7 @@
           },
           {
             "Item1": 50,
-            "Item2": 10000
+            "Item2": 1e4
           },
           {
             "Item1": 110,
@@ -40398,7 +40398,7 @@
         "UseLimit": 1
       }
     },
-    "ItemType": 1,
+    "ItemType": 3,
     "Length": 15,
     "ShinyId": 0,
     "ThumbnailId": "https://t7.rbxcdn.com/79a829222bfd8c45ddfbcb798aabe29c",
