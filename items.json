@@ -25883,14 +25883,18 @@
         }
       ],
       "Values": {
-        "HasIngredients": false,
+        "HasIngredients": true,
         "Ingredients": [
           {
-            "Item1": null,
-            "Item2": null
+            "Item1": 74,
+            "Item2": 7
+          },
+          {
+            "Item1": 84,
+            "Item2": 4
           }
         ],
-        "IsEvoOrCompound": false,
+        "IsEvoOrCompound": true,
         "OreChange": {
           "AddRange": {
             "Item1": null,
@@ -25902,7 +25906,7 @@
             "Item1": null,
             "Item2": null
           },
-          "Multiplier": null,
+          "Multiplier": 4.5,
           "OreValue": null,
           "ValueRange": {
             "Item1": null,
@@ -25910,10 +25914,10 @@
           }
         },
         "Portable": false,
-        "UnusableItemIDs": [],
+        "UnusableItemIDs": [74, 84],
         "UsableDistance": null,
         "UseCap": null,
-        "UseLimit": null
+        "UseLimit": 3
       }
     },
     "ItemType": 3,
