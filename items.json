@@ -40332,8 +40332,44 @@
         "HasIngredients": false,
         "Ingredients": [
           {
-            "Item1": null,
-            "Item2": null
+            "Item1": 685,
+            "Item2": 1
+          },
+          {
+            "Item1": 666,
+            "Item2": 1
+          },
+          {
+            "Item1": 471,
+            "Item2": 1
+          },
+          {
+            "Item1": 695,
+            "Item2": 1
+          },
+          {
+            "Item1": 678,
+            "Item2": 3
+          },
+          {
+            "Item1": 97,
+            "Item2": 3
+          },
+          {
+            "Item1": 180,
+            "Item2": 5
+          },
+          {
+            "Item1": 768,
+            "Item2": 666
+          },
+          {
+            "Item1": 50,
+            "Item2": 1e4
+          },
+          {
+            "Item1": 110,
+            "Item2": 1
           }
         ],
         "IsEvoOrCompound": false,
@@ -40348,7 +40384,7 @@
             "Item1": null,
             "Item2": null
           },
-          "Multiplier": null,
+          "Multiplier": 295.5,
           "OreValue": null,
           "ValueRange": {
             "Item1": null,
@@ -40359,7 +40395,7 @@
         "UnusableItemIDs": [],
         "UsableDistance": null,
         "UseCap": null,
-        "UseLimit": null
+        "UseLimit": 1
       }
     },
     "ItemType": 1,
