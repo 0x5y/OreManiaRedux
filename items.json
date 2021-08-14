@@ -40860,8 +40860,8 @@
     "ItemStats": {
       "Effects": [
         {
-          "Duration": null,
-          "EffectName": null
+          "Duration": 999,
+          "EffectName": "850x to fireproof ores"
         }
       ],
       "Values": {
@@ -40881,10 +40881,10 @@
           "AddValue": null,
           "DropTime": null,
           "MultiRange": {
-            "Item1": null,
-            "Item2": null
+            "Item1": 450,
+            "Item2": 850
           },
-          "Multiplier": 450,
+          "Multiplier": null,
           "OreValue": null,
           "ValueRange": {
             "Item1": null,
