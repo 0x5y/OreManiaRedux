@@ -10077,23 +10077,23 @@
             "Item2": null
           },
           "AddValue": null,
-          "DropTime": null,
+          "DropTime": 0.25,
           "MultiRange": {
             "Item1": null,
             "Item2": null
           },
-          "Multiplier": null,
-          "OreValue": null,
+          "Multiplier": 3,
+          "OreValue": 300e9,
           "ValueRange": {
             "Item1": null,
             "Item2": null
           }
         },
-        "Portable": false,
+        "Portable": true,
         "UnusableItemIDs": [],
-        "UsableDistance": null,
+        "UsableDistance": 2,
         "UseCap": null,
-        "UseLimit": null
+        "UseLimit": 1
       }
     },
     "ItemType": 3,
@@ -11954,8 +11954,8 @@
     "ItemStats": {
       "Effects": [
         {
-          "Duration": null,
-          "EffectName": null
+          "Duration": 999,
+          "EffectName": "Adds 1% boost to all upgrades"
         }
       ],
       "Values": {
@@ -11973,13 +11973,13 @@
             "Item2": null
           },
           "AddValue": null,
-          "DropTime": null,
+          "DropTime": 0.33,
           "MultiRange": {
             "Item1": null,
             "Item2": null
           },
           "Multiplier": null,
-          "OreValue": null,
+          "OreValue": 100e24,
           "ValueRange": {
             "Item1": null,
             "Item2": null
@@ -18726,8 +18726,8 @@
     "ItemStats": {
       "Effects": [
         {
-          "Duration": null,
-          "EffectName": null
+          "Duration": 999,
+          "EffectName": "The more items placed, the higher the multi (265 items max)"
         }
       ],
       "Values": {
@@ -27328,7 +27328,7 @@
             "Item1": null,
             "Item2": null
           },
-          "Multiplier": null,
+          "Multiplier": 475,
           "OreValue": null,
           "ValueRange": {
             "Item1": null,
@@ -27339,7 +27339,7 @@
         "UnusableItemIDs": [],
         "UsableDistance": null,
         "UseCap": null,
-        "UseLimit": null
+        "UseLimit": 1
       }
     },
     "ItemType": 3,
