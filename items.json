@@ -4853,7 +4853,7 @@
       "Effects": [
         {
           "Duration": 5,
-          "EffectName": "Fire"
+          "EffectName": "Burning"
         }
       ],
       "Values": {
@@ -16260,7 +16260,7 @@
           }
         },
         "Portable": false,
-        "UnusableItemIDs": [],
+        "UnusableItemIDs": [167, 168],
         "UsableDistance": null,
         "UseCap": null,
         "UseLimit": 1
@@ -26637,8 +26637,8 @@
     "ItemStats": {
       "Effects": [
         {
-          "Duration": null,
-          "EffectName": null
+          "Duration": 5,
+          "EffectName": "Frostfire"
         }
       ],
       "Values": {
@@ -26665,18 +26665,18 @@
             "Item1": null,
             "Item2": null
           },
-          "Multiplier": null,
+          "Multiplier": 4.1,
           "OreValue": null,
           "ValueRange": {
             "Item1": null,
             "Item2": null
           }
         },
-        "Portable": false,
+        "Portable": true,
         "UnusableItemIDs": [],
-        "UsableDistance": null,
+        "UsableDistance": 2,
         "UseCap": null,
-        "UseLimit": null
+        "UseLimit": 999
       }
     },
     "ItemType": 3,
@@ -27795,8 +27795,8 @@
     "ItemStats": {
       "Effects": [
         {
-          "Duration": null,
-          "EffectName": null
+          "Duration": 5,
+          "EffectName": "Burning"
         }
       ],
       "Values": {
@@ -27819,18 +27819,18 @@
             "Item1": null,
             "Item2": null
           },
-          "Multiplier": null,
+          "Multiplier": 3.3,
           "OreValue": null,
           "ValueRange": {
             "Item1": null,
             "Item2": null
           }
         },
-        "Portable": false,
+        "Portable": true,
         "UnusableItemIDs": [],
-        "UsableDistance": null,
+        "UsableDistance": 2,
         "UseCap": null,
-        "UseLimit": null
+        "UseLimit": 999
       }
     },
     "ItemType": 5,
@@ -33569,8 +33569,8 @@
     "ItemStats": {
       "Effects": [
         {
-          "Duration": null,
-          "EffectName": null
+          "Duration": 5,
+          "EffectName": "Darkfire"
         }
       ],
       "Values": {
@@ -33597,18 +33597,18 @@
             "Item1": null,
             "Item2": null
           },
-          "Multiplier": null,
+          "Multiplier": 7.1,
           "OreValue": null,
           "ValueRange": {
             "Item1": null,
             "Item2": null
           }
         },
-        "Portable": false,
+        "Portable": true,
         "UnusableItemIDs": [],
-        "UsableDistance": null,
+        "UsableDistance": 2,
         "UseCap": null,
-        "UseLimit": null
+        "UseLimit": 999
       }
     },
     "ItemType": 3,
@@ -35099,8 +35099,8 @@
     "ItemStats": {
       "Effects": [
         {
-          "Duration": null,
-          "EffectName": null
+          "Duration": 5,
+          "EffectName": "Burning"
         }
       ],
       "Values": {
@@ -35123,18 +35123,18 @@
             "Item1": null,
             "Item2": null
           },
-          "Multiplier": null,
+          "Multiplier": 3,
           "OreValue": null,
           "ValueRange": {
             "Item1": null,
             "Item2": null
           }
         },
-        "Portable": false,
+        "Portable": true,
         "UnusableItemIDs": [],
-        "UsableDistance": null,
+        "UsableDistance": 3,
         "UseCap": null,
-        "UseLimit": null
+        "UseLimit": 999
       }
     },
     "ItemType": 3,
@@ -35319,8 +35319,8 @@
     "ItemStats": {
       "Effects": [
         {
-          "Duration": null,
-          "EffectName": null
+          "Duration": 5,
+          "EffectName": "Burning"
         }
       ],
       "Values": {
@@ -35343,18 +35343,18 @@
             "Item1": null,
             "Item2": null
           },
-          "Multiplier": null,
+          "Multiplier": 41,
           "OreValue": null,
           "ValueRange": {
             "Item1": null,
             "Item2": null
           }
         },
-        "Portable": false,
+        "Portable": true,
         "UnusableItemIDs": [],
-        "UsableDistance": null,
+        "UsableDistance": 2,
         "UseCap": null,
-        "UseLimit": null
+        "UseLimit": 999
       }
     },
     "ItemType": 3,
@@ -36358,8 +36358,8 @@
     "ItemStats": {
       "Effects": [
         {
-          "Duration": null,
-          "EffectName": null
+          "Duration": 5,
+          "EffectName": "Burning"
         }
       ],
       "Values": {
@@ -36382,18 +36382,18 @@
             "Item1": null,
             "Item2": null
           },
-          "Multiplier": null,
+          "Multiplier": 7.6,
           "OreValue": null,
           "ValueRange": {
             "Item1": null,
             "Item2": null
           }
         },
-        "Portable": false,
+        "Portable": true,
         "UnusableItemIDs": [],
-        "UsableDistance": null,
+        "UsableDistance": 5,
         "UseCap": null,
-        "UseLimit": null
+        "UseLimit": 999
       }
     },
     "ItemType": 3,
@@ -38006,8 +38006,8 @@
         "HasIngredients": false,
         "Ingredients": [
           {
-            "Item1": null,
-            "Item2": null
+            "Item1": 697,
+            "Item2": 15
           }
         ],
         "IsEvoOrCompound": false,
@@ -38022,7 +38022,7 @@
             "Item1": null,
             "Item2": null
           },
-          "Multiplier": null,
+          "Multiplier": 65,
           "OreValue": null,
           "ValueRange": {
             "Item1": null,
@@ -38030,10 +38030,10 @@
           }
         },
         "Portable": false,
-        "UnusableItemIDs": [],
+        "UnusableItemIDs": [697],
         "UsableDistance": null,
         "UseCap": null,
-        "UseLimit": null
+        "UseLimit": 1
       }
     },
     "ItemType": 2,
